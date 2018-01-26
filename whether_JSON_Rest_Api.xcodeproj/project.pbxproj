@@ -10,6 +10,7 @@
 		E056774D201AFA0D00372EE0 /* ForecastService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E056774C201AFA0D00372EE0 /* ForecastService.swift */; };
 		E056774F201AFF3F00372EE0 /* CurrentWhether.swift in Sources */ = {isa = PBXBuildFile; fileRef = E056774E201AFF3F00372EE0 /* CurrentWhether.swift */; };
 		E0AF6C3E201B3932006D9657 /* TemperatureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AF6C3D201B3932006D9657 /* TemperatureViewController.swift */; };
+		E0AF6C40201B54BD006D9657 /* Simulator Screen Shot - iPhone 6s - 2018-01-26 at 04.18.34.png in Resources */ = {isa = PBXBuildFile; fileRef = E0AF6C3F201B54BD006D9657 /* Simulator Screen Shot - iPhone 6s - 2018-01-26 at 04.18.34.png */; };
 		E0B1A8F4201A2EBA0046F16D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B1A8F3201A2EBA0046F16D /* AppDelegate.swift */; };
 		E0B1A8F9201A2EBB0046F16D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0B1A8F7201A2EBB0046F16D /* Main.storyboard */; };
 		E0B1A8FB201A2EBB0046F16D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0B1A8FA201A2EBB0046F16D /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		E056774C201AFA0D00372EE0 /* ForecastService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastService.swift; sourceTree = "<group>"; };
 		E056774E201AFF3F00372EE0 /* CurrentWhether.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWhether.swift; sourceTree = "<group>"; };
 		E0AF6C3D201B3932006D9657 /* TemperatureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureViewController.swift; sourceTree = "<group>"; };
+		E0AF6C3F201B54BD006D9657 /* Simulator Screen Shot - iPhone 6s - 2018-01-26 at 04.18.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6s - 2018-01-26 at 04.18.34.png"; sourceTree = "<group>"; };
 		E0B1A8F0201A2EBA0046F16D /* whether_JSON_Rest_Api.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whether_JSON_Rest_Api.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0B1A8F3201A2EBA0046F16D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0B1A8F8201A2EBB0046F16D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				E0B1A8FA201A2EBB0046F16D /* Assets.xcassets */,
 				E0B1A8FC201A2EBB0046F16D /* LaunchScreen.storyboard */,
 				E0B1A8FF201A2EBB0046F16D /* Info.plist */,
+				E0AF6C3F201B54BD006D9657 /* Simulator Screen Shot - iPhone 6s - 2018-01-26 at 04.18.34.png */,
 				E0AF6C3D201B3932006D9657 /* TemperatureViewController.swift */,
 			);
 			path = whether_JSON_Rest_Api;
@@ -140,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0AF6C40201B54BD006D9657 /* Simulator Screen Shot - iPhone 6s - 2018-01-26 at 04.18.34.png in Resources */,
 				E0B1A8FE201A2EBB0046F16D /* LaunchScreen.storyboard in Resources */,
 				E0B1A8FB201A2EBB0046F16D /* Assets.xcassets in Resources */,
 				E0B1A8F9201A2EBB0046F16D /* Main.storyboard in Resources */,
